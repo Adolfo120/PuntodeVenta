@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Punto de Venta</string>
+    <string name="titulo_lista">Productos</string>
+    <string name="agregar_producto">Agregar Producto</string>
+    <string name="editar_producto">Editar Producto</string>
+    <string name="guardar">Guardar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="nombre_producto">Nombre del producto</string>
+    <string name="precio">Precio</string>
+    <string name="stock">Stock</string>
+    <string name="sin_productos">No hay productos registrados</string>
+    <string name="error_conexion">Error de conexión al servidor</string>
+    <string name="producto_guardado">Producto guardado con éxito</string>
+    <string name="producto_actualizado">Producto actualizado con éxito</string>
+    <string name="producto_eliminado">Producto eliminado</string>
+    <string name="error_guardar">Error al guardar el producto</string>
+    <string name="campos_invalidos">Por favor llena todos los campos correctamente</string>
+    <string name="cargando">Cargando productos…</string>
+    <string name="buscar">Buscar producto…</string>
+    <string name="total_productos">Total Productos</string>
+    <string name="valor_inventario">Valor Inventario</string>
+    <string name="stock_bajo">Stock Bajo</string>
+    <string name="confirmar_eliminar">¿Eliminar producto?</string>
+    <string name="confirmar_eliminar_msg">¿Estás seguro de eliminar "%s"?</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="deshacer">Deshacer</string>
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_agregar">Agregar Producto</string>
+    <string name="nav_cerrar">Cerrar Sesión</string>
+    <string name="drawer_header_subtitle">Sistema de inventario</string>
+    <string name="sin_stock">Sin stock</string>
+</resources>

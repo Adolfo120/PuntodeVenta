@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PuntodeVenta" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#FF7C4DFF</item>
+        <item name="colorOnPrimary">#FFFFFFFF</item>
+        <item name="colorPrimaryContainer">#FFEADDFF</item>
+        <item name="colorSecondary">#FF625B71</item>
+        <item name="colorOnSecondary">#FFFFFFFF</item>
+        <item name="colorSurface">#FFFFFBFE</item>
+        <item name="colorOnSurface">#FF1C1B1F</item>
+        <item name="colorError">#FFB3261E</item>
+        <item name="android:statusBarColor">#FF7C4DFF</item>
+        <item name="android:navigationBarColor">#FFFFFBFE</item>
+    </style>
+</resources>
